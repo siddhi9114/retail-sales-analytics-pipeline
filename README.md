@@ -39,7 +39,6 @@ Total records: \~10,000+ transactions
 Raw Dataset
 
 &#x20;    ↓
-
 Python Data Cleaning
 
 &#x20;    ↓
@@ -107,24 +106,6 @@ Key dashboard components:
 • Monthly Revenue Trend
 • Top Products
 • Customer Segments
-
-**Project Structure**
-Retail-Sales-Analytics
-
-│
-├── dataset
-├── notebooks
-│   ├── data\_cleaning.ipynb
-│   ├── eda\_analysis.ipynb
-│   └── sales\_prediction.ipynb
-│
-├── sql
-│   └── business\_queries.sql
-│
-├── dashboard
-│   └── powerbi\_dashboard.pbix
-│
-└── README.md
 
 **Business Insights**
 • West region generates the highest revenue
